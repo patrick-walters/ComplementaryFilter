@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <!--TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtFuseOrientationTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Fused Orientation"/>
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtFuseOriX"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Azimuth = " />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtFuseOriY"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Pitch =   " />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtFuseOriZ"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Roll =   " />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtOrientationTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Orientation"/>
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtOriX"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Azimuth = " />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtOriY"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Pitch =   " />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtOriZ"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Roll =   " />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtGPSTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="GPS"/>
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtLat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Lat = " />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtLong"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Long = " /-->
+</LinearLayout>
